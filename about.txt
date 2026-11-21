@@ -13,4 +13,4 @@ Goal: Become a Game Developer
 Interest: Playing electric guitar, Playing video games, Learning programming
 Goals: Improve my programming skills, Become a game developer
 
-Favorite programming language: C#, HTML, etc.
+Favorite programming language: C#, HTML, Java, etc.
