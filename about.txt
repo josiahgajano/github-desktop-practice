@@ -1,0 +1,16 @@
+Name: Josiah Nove Gajano
+Course: BSIT
+Section: BSIT 261-2B
+
+Hobbies: Playing Guitar and Gaming
+Skills: Basic Programming and web design.
+
+Interest: Food and Drinks
+
+Skills: Guitar playing
+Goal: Become a Game Developer
+
+Interest: Playing electric guitar, Playing video games, Learning programming
+Goals: Improve my programming skills, Become a game developer
+
+Favorite programming language: C#, HTML, etc.
